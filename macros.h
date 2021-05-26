@@ -1,0 +1,9 @@
+#ifndef _CONSTANTS_H
+#define _CONSTANTS_H
+#define SERVER_PORT 5555
+#define MAX_CONNECTIONS 6
+#define MAX_NORMAL_USERS 1
+#define MAX_JOINT_USERS 2
+#define MAX_ADMIN 100
+#define CLIENT_PORT 5555
+#endif
